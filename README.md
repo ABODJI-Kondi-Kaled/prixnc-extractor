@@ -1,4 +1,4 @@
-# PrixNC Data Extractor & PDF Generator
+# PrixNC Data Extractor & CSV | EXCEL | PDF Generator
 
 ![Python Version](https://img.shields.io/badge/Python-3.13.0-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -18,10 +18,10 @@
 
 ### 🔗 Links
 
-- 🚀 [LinkedIn](linkedin.com/in/kondi-kalèd-abodji-bba246243)
+- 🚀 [LinkedIn](https://www.linkedin.com/in/kondi-kalèd-abodji-bba246243)
+- 💼 [Codeur.com Profile](https://www.codeur.com/-kamon_cgs) # The one I uses
 - 📸 [Instagram](https://www.instagram.com/software.realizer?igsh=dWhxZmJveDBkNGEw)
 - 🎵 [TikTok](tiktok.com/@software.realizer)
-- 💼 [Codeur.com Profile](https://www.codeur.com/-kamon_cgs) # The one I uses
 
 
 ## Description
