@@ -19,7 +19,7 @@
 ### 🔗 Links
 
 - 🚀 [LinkedIn](https://www.linkedin.com/in/kondi-kalèd-abodji-bba246243)
-- 💼 [Codeur.com Profile](https://www.codeur.com/-kamon_cgs) # The one I uses
+- 💼 [Codeur.com Profile](https://www.codeur.com/-kamon_cgs) # The one I use
 - 📸 [Instagram](https://www.instagram.com/software.realizer?igsh=dWhxZmJveDBkNGEw)
 - 🎵 [TikTok](tiktok.com/@software.realizer)
 
